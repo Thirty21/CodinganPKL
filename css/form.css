@@ -1,0 +1,34 @@
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    background-image: url('../img/bg/belakang.jpg');
+    background-size: cover;
+}
+
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+}
+
+.login {
+    border-radius: 18px;
+    height: 500px;
+    margin: auto;
+    background-image: url(../img/bg/login.png);
+    background-position: -50px;
+    background-position-y: -27px ;
+    box-shadow: 10px 10px 20px white;
+}
+
+.login h4{
+    margin-top: 100px;
+}
+
+form .form-group input{
+    margin: auto;
+}
+
+form .user input{
+    margin: auto;
+    margin-top: 70px;
+}
